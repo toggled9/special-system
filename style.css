@@ -1,0 +1,29 @@
+.showrunner-settings textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.showrunner-settings .showrunner-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 4px;
+}
+
+.showrunner-settings .showrunner-hint {
+    opacity: 0.65;
+    font-size: 0.85rem;
+    margin-top: 4px;
+}
+
+.showrunner-settings #showrunner_directive_view {
+    min-height: 80px;
+}
+
+#showrunner_peek_json {
+    max-height: 50vh;
+    overflow: auto;
+    text-align: left;
+    white-space: pre;
+    font-size: 0.85rem;
+}

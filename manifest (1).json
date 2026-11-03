@@ -1,0 +1,12 @@
+{
+    "display_name": "Showrunner",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "you",
+    "version": "0.1.0",
+    "homePage": "",
+    "i18n": {}
+}
